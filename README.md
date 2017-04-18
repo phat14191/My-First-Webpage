@@ -1,6 +1,6 @@
 # _My first webpage_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _My First Webpage, 4/17/17 _
 
 #### By _**Phat Nguyen**_
 
@@ -29,4 +29,4 @@ _Atom_
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2016 **_Phat Nguyen_**
+Copyright (c) 2016 **_Phat Nguyen, Jored_**
